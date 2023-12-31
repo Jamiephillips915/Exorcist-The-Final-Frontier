@@ -1,0 +1,80 @@
+<mxfile host="Electron" modified="2023-11-19T18:57:01.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.0 Chrome/114.0.5735.289 Electron/25.8.3 Safari/537.36" etag="3jMi-Gticx95GjrKdkga" version="22.0.0" type="device">
+  <diagram name="Page-1" id="-vQ0L_d54-Zn_x9aguxv">
+    <mxGraphModel dx="2074" dy="844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FTPK-w9koMFh58YKB5Lr-1" target="FTPK-w9koMFh58YKB5Lr-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-1" value="Enemy Pathfinding" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="300" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FTPK-w9koMFh58YKB5Lr-2" target="FTPK-w9koMFh58YKB5Lr-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-2" value="Request optimal path from A* algorithm script" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FTPK-w9koMFh58YKB5Lr-4" target="FTPK-w9koMFh58YKB5Lr-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-4" value="Move to the next A* algorithm waypoint" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FTPK-w9koMFh58YKB5Lr-7" target="FTPK-w9koMFh58YKB5Lr-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FTPK-w9koMFh58YKB5Lr-7" target="FTPK-w9koMFh58YKB5Lr-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="461" y="350" />
+              <mxPoint x="461" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-7" value="Is the enemy character near the next waypoint" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="300" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FTPK-w9koMFh58YKB5Lr-10" target="FTPK-w9koMFh58YKB5Lr-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-10" value="Move enemy to the next waypoint" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="FTPK-w9koMFh58YKB5Lr-15" target="FTPK-w9koMFh58YKB5Lr-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-9" y="350" />
+              <mxPoint x="-9" y="190" />
+              <mxPoint x="290" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FTPK-w9koMFh58YKB5Lr-15" target="FTPK-w9koMFh58YKB5Lr-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-15" value="Is the enemy close to the player?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="300" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FTPK-w9koMFh58YKB5Lr-18" value="Enemy Attack Function" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S45b7HCmTc0vVKi6pszH-1" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S45b7HCmTc0vVKi6pszH-2" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S45b7HCmTc0vVKi6pszH-3" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S45b7HCmTc0vVKi6pszH-4" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

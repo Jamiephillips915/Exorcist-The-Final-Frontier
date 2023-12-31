@@ -1,0 +1,34 @@
+<mxfile host="Electron" modified="2023-09-21T09:29:57.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="tDe7GIo5NJ9nTct5fJY_" version="21.7.5" type="device">
+  <diagram name="Page-1" id="LlHxg7yfqpz0n8hPSd0H">
+    <mxGraphModel dx="1434" dy="844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8CyFsR5OlZWpXKvfgXjn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=last-rites-font;" vertex="1" parent="1">
+          <mxGeometry y="360" width="735" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="8CyFsR5OlZWpXKvfgXjn-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="9" y="463" width="161" height="236" as="geometry" />
+        </mxCell>
+        <mxCell id="8CyFsR5OlZWpXKvfgXjn-5" value="&lt;font face=&quot;constantia&quot;&gt;New Game&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="515" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8CyFsR5OlZWpXKvfgXjn-6" value="&lt;font face=&quot;Constantia&quot;&gt;Load Game&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="555.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8CyFsR5OlZWpXKvfgXjn-7" value="&lt;font face=&quot;Constantia&quot;&gt;Settings&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="596" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8CyFsR5OlZWpXKvfgXjn-8" value="&lt;font face=&quot;Constantia&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 34px;&quot;&gt;Exorcist: The Final Frontier&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215.75" y="444" width="303.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="8CyFsR5OlZWpXKvfgXjn-10" value="&lt;font color=&quot;#636363&quot; style=&quot;font-size: 31px;&quot;&gt;(IMAGE)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327" y="547" width="81" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="8CyFsR5OlZWpXKvfgXjn-11" value="&lt;font face=&quot;Constantia&quot;&gt;Exit Game&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29.5" y="637" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

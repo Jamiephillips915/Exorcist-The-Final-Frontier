@@ -1,0 +1,31 @@
+<mxfile host="Electron" modified="2023-09-16T22:19:27.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="7wzLF6krHZZTR6zeDDeB" version="21.7.5" type="device">
+  <diagram name="Page-1" id="EGzMRdcxtR-U2vxnexto">
+    <mxGraphModel dx="1834" dy="844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q-u2KVJAgPukn42geY5k-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-u2KVJAgPukn42geY5k-1" target="q-u2KVJAgPukn42geY5k-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-u2KVJAgPukn42geY5k-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Animations&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q-u2KVJAgPukn42geY5k-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-u2KVJAgPukn42geY5k-16" target="q-u2KVJAgPukn42geY5k-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-u2KVJAgPukn42geY5k-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-u2KVJAgPukn42geY5k-16" target="q-u2KVJAgPukn42geY5k-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-u2KVJAgPukn42geY5k-16" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Attacks&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-123" y="91" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q-u2KVJAgPukn42geY5k-25" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Special abilities&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-226" y="171" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q-u2KVJAgPukn42geY5k-27" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Basic attack&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="171" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

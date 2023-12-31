@@ -1,0 +1,98 @@
+<mxfile host="Electron" modified="2023-09-17T11:57:02.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="azelIyyZIgWllyXhn5CX" version="21.7.5" type="device">
+  <diagram name="Page-1" id="EGzMRdcxtR-U2vxnexto">
+    <mxGraphModel dx="1834" dy="844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q-u2KVJAgPukn42geY5k-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q-u2KVJAgPukn42geY5k-1" target="q-u2KVJAgPukn42geY5k-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="166" y="76" />
+              <mxPoint x="-63" y="76" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WwdvQKYLu-T_pfMkLyTl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-u2KVJAgPukn42geY5k-1" target="WwdvQKYLu-T_pfMkLyTl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WwdvQKYLu-T_pfMkLyTl-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-u2KVJAgPukn42geY5k-1" target="WwdvQKYLu-T_pfMkLyTl-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="166" y="76" />
+              <mxPoint x="438" y="76" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WwdvQKYLu-T_pfMkLyTl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-u2KVJAgPukn42geY5k-1" target="WwdvQKYLu-T_pfMkLyTl-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="166" y="77" />
+              <mxPoint x="298" y="77" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q-u2KVJAgPukn42geY5k-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Animations&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="106" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q-u2KVJAgPukn42geY5k-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q-u2KVJAgPukn42geY5k-16" target="q-u2KVJAgPukn42geY5k-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-u2KVJAgPukn42geY5k-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q-u2KVJAgPukn42geY5k-16" target="q-u2KVJAgPukn42geY5k-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-u2KVJAgPukn42geY5k-16" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Attacks&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-123" y="91" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q-u2KVJAgPukn42geY5k-25" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Special abilities&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-226" y="171" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q-u2KVJAgPukn42geY5k-27" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Basic attack&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-26" y="171" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WwdvQKYLu-T_pfMkLyTl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WwdvQKYLu-T_pfMkLyTl-1" target="WwdvQKYLu-T_pfMkLyTl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WwdvQKYLu-T_pfMkLyTl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WwdvQKYLu-T_pfMkLyTl-1" target="WwdvQKYLu-T_pfMkLyTl-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="166" y="147" />
+              <mxPoint x="298" y="147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WwdvQKYLu-T_pfMkLyTl-1" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Movements&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106" y="91" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WwdvQKYLu-T_pfMkLyTl-3" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Vertical movment&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106" y="171" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WwdvQKYLu-T_pfMkLyTl-5" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Horizontal movements&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="238" y="171" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WwdvQKYLu-T_pfMkLyTl-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WwdvQKYLu-T_pfMkLyTl-7" target="WwdvQKYLu-T_pfMkLyTl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WwdvQKYLu-T_pfMkLyTl-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WwdvQKYLu-T_pfMkLyTl-7" target="WwdvQKYLu-T_pfMkLyTl-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="438" y="148" />
+              <mxPoint x="578" y="148" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WwdvQKYLu-T_pfMkLyTl-7" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Death animations&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="91" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WwdvQKYLu-T_pfMkLyTl-9" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Player death&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="171" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WwdvQKYLu-T_pfMkLyTl-11" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Enemy deaths&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="171" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WwdvQKYLu-T_pfMkLyTl-13" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Objects breaking&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="238" y="91" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

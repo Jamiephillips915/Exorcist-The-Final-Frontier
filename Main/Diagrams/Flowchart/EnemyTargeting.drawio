@@ -1,0 +1,59 @@
+<mxfile host="Electron" modified="2023-11-19T17:15:11.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.0 Chrome/114.0.5735.289 Electron/25.8.3 Safari/537.36" etag="xkdDXviXqyfxxOyWK95B" version="22.0.0" type="device">
+  <diagram name="Page-1" id="-IvUwtAU4oQ2HJLPDmiH">
+    <mxGraphModel dx="712" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8orGHHlIyVeikZW8GaYe-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="N_F_l_tat8wlWwE-fw-y-1" target="N_F_l_tat8wlWwE-fw-y-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N_F_l_tat8wlWwE-fw-y-1" value="Enemy Targeting" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="300" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8orGHHlIyVeikZW8GaYe-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="N_F_l_tat8wlWwE-fw-y-2" target="8orGHHlIyVeikZW8GaYe-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N_F_l_tat8wlWwE-fw-y-2" value="Locate the coordinates of the player character" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8orGHHlIyVeikZW8GaYe-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8orGHHlIyVeikZW8GaYe-2" target="8orGHHlIyVeikZW8GaYe-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8orGHHlIyVeikZW8GaYe-2" value="Locate the coordinates of the enemy character" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8orGHHlIyVeikZW8GaYe-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8orGHHlIyVeikZW8GaYe-5" target="8orGHHlIyVeikZW8GaYe-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8orGHHlIyVeikZW8GaYe-5" value="Calculate the distance between both coordinates" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8orGHHlIyVeikZW8GaYe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8orGHHlIyVeikZW8GaYe-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="241" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8orGHHlIyVeikZW8GaYe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8orGHHlIyVeikZW8GaYe-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8orGHHlIyVeikZW8GaYe-7" value="is the distance to the player lower than detection range?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8orGHHlIyVeikZW8GaYe-12" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8orGHHlIyVeikZW8GaYe-16" value="Enemy Pathfinding" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8orGHHlIyVeikZW8GaYe-17" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

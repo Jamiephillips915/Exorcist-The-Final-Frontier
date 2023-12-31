@@ -1,0 +1,107 @@
+<mxfile host="Electron" modified="2023-11-18T17:02:08.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.0 Chrome/114.0.5735.289 Electron/25.8.3 Safari/537.36" etag="Utt1Hh7eNTlqtfgT0YEy" version="22.0.0" type="device">
+  <diagram name="Page-1" id="PIonCdk-OvxmklWn8Pjj">
+    <mxGraphModel dx="2074" dy="880" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rWx0DaT4IOJCAm7czbMm-1" target="rWx0DaT4IOJCAm7czbMm-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-1" value="Health bar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="364" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rWx0DaT4IOJCAm7czbMm-2" target="rWx0DaT4IOJCAm7czbMm-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-2" value="Set Health bar to 100 at start of level" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rWx0DaT4IOJCAm7czbMm-4" target="rWx0DaT4IOJCAm7czbMm-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rWx0DaT4IOJCAm7czbMm-4" target="rWx0DaT4IOJCAm7czbMm-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-4" value="Has enemy &lt;br&gt;dealt damage?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="364" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rWx0DaT4IOJCAm7czbMm-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="530" />
+              <mxPoint x="-9" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UP3OFzqBbEXPRWNf5939-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rWx0DaT4IOJCAm7czbMm-6" target="UP3OFzqBbEXPRWNf5939-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-6" value="Has enemy been killed?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="364" y="410" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rWx0DaT4IOJCAm7czbMm-8" target="rWx0DaT4IOJCAm7czbMm-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-8" value="Take away the enemys damage from current health" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rWx0DaT4IOJCAm7czbMm-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-9" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-10" value="Update Health Bar UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rWx0DaT4IOJCAm7czbMm-13" target="rWx0DaT4IOJCAm7czbMm-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rWx0DaT4IOJCAm7czbMm-13" target="rWx0DaT4IOJCAm7czbMm-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-13" value="is the players health below 0?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-16" value="DeathFunction" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-23" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWx0DaT4IOJCAm7czbMm-24" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UP3OFzqBbEXPRWNf5939-1" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UP3OFzqBbEXPRWNf5939-2" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="404" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UP3OFzqBbEXPRWNf5939-3" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UP3OFzqBbEXPRWNf5939-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UP3OFzqBbEXPRWNf5939-4" target="UP3OFzqBbEXPRWNf5939-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UP3OFzqBbEXPRWNf5939-4" value="Add specific health to player depending on specific enemy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UP3OFzqBbEXPRWNf5939-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UP3OFzqBbEXPRWNf5939-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UP3OFzqBbEXPRWNf5939-6" value="Update Health Bar UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UP3OFzqBbEXPRWNf5939-9" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
